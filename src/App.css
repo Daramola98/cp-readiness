@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin: 100px;
+}
+body {
+  height: 100vh;
+  background: silver;
+  color:black;
+  font-family: consolas;
+}
+
+h2{
+  text-decoration:underline;
+}
+
+li{
+  font-weight: bold;
+  font-size: 1.5em;
+}
