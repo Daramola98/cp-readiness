@@ -1,1 +1,1 @@
-My name is Daramola Ajiboye, I am a Technology Enthusiast and an aspiring web developer.
+Andela Search Bar Implemented using HTML CSS AND JAVASCRIPT.
