@@ -1,1 +1,0 @@
-Andela Search Bar Implemented using HTML CSS AND JAVASCRIPT.
